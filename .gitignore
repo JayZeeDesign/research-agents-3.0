@@ -1,0 +1,6 @@
+
+.cache/41/cache.db
+.env
+OAI_CONFIG_LIST
+gpt_assistant_agent.py
+__pycache__/gpt_assistant_agent.cpython-310.pyc
