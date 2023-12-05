@@ -1,0 +1,19 @@
+------------------ Researcher ------------------------
+
+Research about pricing model fro RelevanceAI
+
+https://relevanceai.com/pricing
+
+
+
+------------------ Director ------------------------
+
+research the pricing model of each company in the list https://airtable.com/appj0J4gFpvLrQWjI/tblF40mG6oLjYtgZl/viwmFx2ttAVrJm0E3?blocks=hide
+
+[ { "Company": "Relevant AI", "Funding Stage": "", "Price": "" }, { "Company": "Lindy AI", "Funding Stage": "", "Price": "" }, { "Company": "Airops", "Funding Stage": "", "Price": "" }, { "Company": "Stack AI", "Funding Stage": "", "Price": "" } ]
+
+Research results: 
+Lindy Al: $20 per month 
+RelevanceAl: $19 per month 
+Airops: $30 per month 
+Stack Al: $20 per month
