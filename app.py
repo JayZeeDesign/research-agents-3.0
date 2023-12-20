@@ -151,7 +151,7 @@ researcher = GPTAssistantAgent(
     name = "researcher",
     llm_config = {
         "config_list": config_list,
-        "assistant_id": "asst_qyvioid5My8K3SdFClaEnwmB"
+        "assistant_id": "asst_YZkCOm2gonCYUCfMsFsKUgGt"
     }
 )
 
@@ -167,7 +167,7 @@ research_manager = GPTAssistantAgent(
     name="research_manager",
     llm_config = {
         "config_list": config_list,
-        "assistant_id": "asst_C1Ta5XmmEcYD6vnOSVflnwG9"
+        "assistant_id": "asst_u5sVZ12VX3t6hMe9t2GDz0zG"
     }
 )
 
@@ -177,7 +177,7 @@ director = GPTAssistantAgent(
     name = "director",
     llm_config = {
         "config_list": config_list,
-        "assistant_id": "asst_zVBJGch5mOyCYl9H1J3L9Ime",
+        "assistant_id": "asst_q3sdq1JgQgJULPI7rPzeMVUO",
     }
 )
 
@@ -196,6 +196,5 @@ group_chat_manager = autogen.GroupChatManager(groupchat=groupchat, llm_config={"
 
 # ------------------ start conversation ------------------ #
 message = """
-Research the funding stage/amount & pricing for each company in the list: https://airtable.com/appj0J4gFpvLrQWjI/tblF4OmG6oLjYtgZl/viwmFx2ttAVrJm0E3?blocks=hide
-"""
+Research the funding stage/amount & pricing for each company in the list: https://airtable.com/app3U6LmhQCajZcnD/tblhEv2zk4HNrTB6a/viwjkjRxBD75WlqaW?blocks=hide"""
 user_proxy.initiate_chat(group_chat_manager, message=message)
